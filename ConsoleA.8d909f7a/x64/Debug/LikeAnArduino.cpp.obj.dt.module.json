@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ConsoleA.8d909f7a\\x64\\Debug\\LikeAnArduino.obj",
+            "outputs": [
+                "ConsoleA.8d909f7a\\x64\\Debug\\LikeAnArduino.cpp.obj.dt.module.json",
+                "ConsoleA.8d909f7a\\x64\\Debug\\LikeAnArduino.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
